@@ -7,6 +7,10 @@ Parse "notas de corretagem" pdf file to a csv with each operation and its values
 URL:
 https://nota-de-corretagem-to-csv.web.app/
 
+Icon by:
+[darius-dan](https://www.flaticon.com/br/autores/darius-dan)
+
+
 <!--
 
 **Here are some ideas to get you started:**
